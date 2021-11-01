@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sayari App with LoveCalculator</string>
+
+
+    <string name="Lovecalculator">LOVE CALCULATOR</string>
+    <string name="DATE">2021</string>
+    <string name="calculatelove">CALCULATE YOUR LOVE</string>
+    <string name="yourlovematch">YOUR LOVE MATCH</string>
+    <string name="try_again"><u>try again</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

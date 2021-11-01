@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346160856953",
+    "project_id": "newsayari",
+    "storage_bucket": "newsayari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346160856953:android:5f1056d34ce0f4873db9a8",
+        "android_client_info": {
+          "package_name": "com.ACG.sayari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346160856953-sc6qt14i16i8lrtl0oveq0m47m3326va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi-_RyIvu4allxiqDFfva2dlmsWNfAzL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346160856953-sc6qt14i16i8lrtl0oveq0m47m3326va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
